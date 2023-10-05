@@ -10,6 +10,14 @@
       "StackName": "amplify-silentselleramplify-dev-94316",
       "StackId": "arn:aws:cloudformation:us-east-1:844507358462:stack/amplify-silentselleramplify-dev-94316/246f53e0-6385-11ee-bcf0-0e02550272c7",
       "AmplifyAppId": "d2nir4f1b7xog8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2nir4f1b7xog8",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
