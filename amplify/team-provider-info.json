@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-silentselleramplify-dev-94316-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844507358462:role/amplify-silentselleramplify-dev-94316-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844507358462:role/amplify-silentselleramplify-dev-94316-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-silentselleramplify-dev-94316-deployment",
+      "UnauthRoleName": "amplify-silentselleramplify-dev-94316-unauthRole",
+      "StackName": "amplify-silentselleramplify-dev-94316",
+      "StackId": "arn:aws:cloudformation:us-east-1:844507358462:stack/amplify-silentselleramplify-dev-94316/246f53e0-6385-11ee-bcf0-0e02550272c7",
+      "AmplifyAppId": "d2nir4f1b7xog8"
+    }
+  }
+}
