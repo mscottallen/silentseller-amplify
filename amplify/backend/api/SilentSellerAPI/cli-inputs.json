@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/storekeys": {
+      "name": "/storekeys",
+      "lambdaFunction": "SilentSellerFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
