@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # MAIN BRANCH *SILENTSELLER*
+=======
+# DEV BRANCH *SILENTSELLER*
+>>>>>>> dev
 
 ## Getting Started with Create React App
 

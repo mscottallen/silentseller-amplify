@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/" element={<></>} />
+          <Route path="/" element={<Login />} />
           {/* Redirect user to login or dashboard depending on authentication status */}
         </Routes>
       </div>

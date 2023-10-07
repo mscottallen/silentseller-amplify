@@ -12,12 +12,28 @@
       "AmplifyAppId": "d2nir4f1b7xog8"
     },
     "categories": {
+      "auth": {
+        "silentselleramplify72b17d1d": {}
+      },
       "hosting": {
-        "amplifyhosting": {
-          "appId": "d2nir4f1b7xog8",
-          "type": "cicd"
-        }
+        "S3AndCloudFront": {}
+      },
+      "function": {
+        "SilentSellerFunction": {}
       }
+    }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-silentselleramplify-main-121336-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844507358462:role/amplify-silentselleramplify-main-121336-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844507358462:role/amplify-silentselleramplify-main-121336-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-silentselleramplify-main-121336-deployment",
+      "UnauthRoleName": "amplify-silentselleramplify-main-121336-unauthRole",
+      "StackName": "amplify-silentselleramplify-main-121336",
+      "StackId": "arn:aws:cloudformation:us-east-1:844507358462:stack/amplify-silentselleramplify-main-121336/4f06ce10-6463-11ee-8c25-0abe4d9ab067",
+      "AmplifyAppId": "d2nir4f1b7xog8"
     }
   }
 }
